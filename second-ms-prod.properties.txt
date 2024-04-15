@@ -1,0 +1,2 @@
+database.username=devroot
+database.password=12345
