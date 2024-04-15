@@ -1,2 +1,2 @@
-database.username=devroot
+database.username=prodroot
 database.password=12345
